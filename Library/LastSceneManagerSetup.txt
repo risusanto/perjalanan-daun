@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Arisan/Scenes/MainGame.unity
+  isLoaded: 1
+  isActive: 1
